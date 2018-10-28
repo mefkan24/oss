@@ -4,7 +4,7 @@ In addition to using an authorization header, you can add signature information 
 
 ## Implementation {#section_rtl_3df_xdb .section}
 
-URL signature example:
+URL signature example::
 
 ```
 http://oss-example.oss-cn-hangzhou.aliyuncs.com/oss-api.pdf?OSSAccessKeyId=nz2pc56s936**9l&Expires=1141889120&Signature=vjbyPxybdZaNmGa%2ByT272YEAiv4%3D
